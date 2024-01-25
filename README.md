@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Dot%20Net%20Core-red)
-![Static Badge](https://img.shields.io/badge/C#-blue)
+![Static Badge](https://img.shields.io/badge/c%23-blue)
 ![Static Badge](https://img.shields.io/badge/Dot%20Net%20Mvc-yellow)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)

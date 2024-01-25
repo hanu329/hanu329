@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on react project.
+- 🔭 I’m currently working on react + dot net project .
 - 🌱 I’m currently learning react. :relaxed:
 - 👯 I’m looking to collaborate on some open source.
-- 💬 Ask me about web-development in MERN stack.
+- 💬 Ask me about web-development in MERN and Dot net stack.
 - 📫 How to reach me: thanuman222@gmail.com.
 -  <a href="https://www.linkedin.com/in/hanu329/" target= "_blank">    <img src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669739.png?token=exp=1648016671~hmac=37e6eb9774a648114f03006c23ec588e" style="width:20px; height:20px; margin-top:4px;"/> Connect on linkedin </a>
 -  <a href="https://chic-babka-7f6d10.netlify.app/" target="_blank"> :snowflake: view portfolio </a>
